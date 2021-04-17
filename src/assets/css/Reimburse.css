@@ -1,0 +1,96 @@
+.dropdown-menu > li > a:hover,
+.dropdown-menu > li > a:focus {
+  text-decoration: none !important;
+  color: #ffffff !important;
+  background-color: #f3969a !important;
+}
+
+.pointer {
+    cursor: pointer;
+}
+
+.bg-enigma {
+    background-color: #292961 !important;
+    color: #fff;
+}
+
+.btn-enigma {
+    background-color: #292961 !important;
+    color: #fff !important;
+}
+
+.btn-outline-enigma:hover {
+    background-color: #292961 !important;
+    color: #fff !important;
+}
+
+.btn-outline-enigma {
+    border-color: #292961 !important;
+    color: #292961 !important;
+}
+
+.td-width {
+    max-width: 50%;
+}
+
+td, .text-enigma {
+    color: #292961 !important;
+}
+
+.border-enigma {
+    border-color: #292961 !important;
+}
+
+.p-enigma {
+    font-size: 12px;
+    color: #292961;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.p-enigma-bold {
+    font-size: 12px;
+    color: #292961;
+    font-weight: bold;
+}
+
+.zoom:hover {
+/* -webkit-transform: rotate(-2deg); */
+    /* transform: rotate(-2deg); */
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    animation-name: zoom;
+    background-color: #292961 !important;
+    animation-duration: 0.25s !important;
+    border-left: 5px solid #FFD700 !important;
+    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.20) !important;
+    border-right: 2px solid #292961 !important;
+}
+
+@keyframes zoom {
+    0%   {border-left: 2px solid #ffffff;}
+    25%  {border-left: 3px solid #ffe6e6;}
+    50%  {border-left: 4px solid #ff8080;}
+    100% {border-left: 5px solid #ff0000;}
+}
+
+.table-rounded{
+    border-radius: 15px !important;
+    border-style: solid !important;
+}
+
+.card {
+    border-bottom-left-radius: 10px !important;
+    border-bottom-right-radius: 10px !important;
+}
+
+.table-hover tbody tr:hover td, .table-hover tbody tr:hover th {
+    background-color: #F8F9FA;
+}
+
+.modal-header {
+    background-color: #292961;
+    color: #fff;
+ }

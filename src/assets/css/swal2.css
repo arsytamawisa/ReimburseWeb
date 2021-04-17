@@ -1,0 +1,21 @@
+.swal2-cancel{
+    color: #DC3545 !important;
+    background-color: #fff !important;
+    border: 1px solid #DC3545 !important;
+}
+
+.swal2-confirm{
+    color: #007BFF !important;
+    background-color: #fff !important;
+    border: 1px solid #007BFF !important;
+}
+
+.swal2-confirm:hover{
+    color: #fff !important;
+    background-color: #007BFF !important;
+}
+
+.swal2-cancel:hover{
+    color: #fff !important;
+    background-color: #DC3545 !important;
+}

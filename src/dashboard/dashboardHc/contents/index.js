@@ -1,0 +1,5 @@
+export {default as BarChart} from "./BarChart"
+export {default as Doughnut} from "./DoughnutTypeContract"
+export {default as ChartGender} from "./ChartGender"
+export {default as DashboardContent} from "./DashboardContent"
+export {default as DoughnutTypeEmployee} from "./DoughnutTypeEmployee"

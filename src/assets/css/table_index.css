@@ -1,0 +1,18 @@
+/* table thead tr {
+    display: block;
+}
+table th, table td {
+    width: 80px;
+}
+table tbody {
+    display: block;
+    height: 80vh;
+    overflow: auto;
+}
+th {
+    text-align: center;
+}
+td {
+    text-align: center;
+    white-space: pre;
+} */

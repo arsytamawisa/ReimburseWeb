@@ -1,0 +1,13 @@
+.tab-box{
+    padding: 20px;
+    border: 1px solid #DDD;
+    border-top: 0;
+}
+.tab-box > h3{
+    margin:20px 0;
+    font-style:italic;
+}
+.tab-box > p{
+    line-height: 2;
+    color: #919191;
+}
